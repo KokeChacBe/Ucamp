@@ -20,3 +20,5 @@ El modelo de regresión lineal se entrena y se evalúa utilizando la división d
 Para mejorar la precisión del modelo, se utiliza la técnica de ensamblaje de Random Forest, junto con el ajuste de hiperparámetros para encontrar los valores óptimos de los parámetros del modelo.
 
 El resultado final es un modelo preciso que puede predecir la calificación de las aplicaciones en la Play Store.
+
+Al final no realice la parte del API por que mi computadora no lo permite, es una computadora con windows 7 y con algunos problemas que no me permite instalar nada externo, y las pocas cosas que podia hacer no me dejaba ya que ya no habia soporte para windows 7, estoy conciente de la reduccion de puntos.
